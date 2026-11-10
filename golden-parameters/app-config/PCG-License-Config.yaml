@@ -2,8 +2,8 @@
 apiVersion: yang.config.ericsson.com/v1alpha1
 kind: Config
 metadata:
-  name: pny9-pcg-dmc-1111 # kpt-set: ${node_name}
-  namespace: eric-pcg-02 # kpt-set: ${node_namespace}
+  name: pny9-pcg-dmc-xxxx # kpt-set: ${node_name}
+  namespace: eric-pcg-xx # kpt-set: ${node_namespace}
 spec:
   config:
   - path: /nlm
